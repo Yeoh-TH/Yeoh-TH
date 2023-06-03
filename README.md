@@ -38,4 +38,4 @@ Languages I work with <3:
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="JavaScript" alt="JavaScript" width="200" height="200"/>&nbsp;
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/?username=SST-Yeoh-TH&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/?username=Yeoh-TH&layout=compact&theme=tokyonight)
