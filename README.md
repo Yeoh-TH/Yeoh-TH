@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="1000"/>
 </div>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=avenir&color=%0077c5&size=18&vCenter=true&height=16&lines=Hello%20There,%20I%20am%20TH,%20also%20known%20as%20Tian%20Huai!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=roboto&color=%0077c5&size=18&vCenter=true&height=16&lines=Hello%20There,%20I%20am%20TH,%20also%20known%20as%20Tian%20Huai!)
 <div id="socialNetworking" align="center">
   <a href="https://www.youtube.com/channel/UCiu6IweqcO0erslTDBVzwkg">
     <img src="https://img.shields.io/badge/YTHSnoozed-red?&logo=youtube&logoColor=white" height="85"width="300"/>
