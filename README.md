@@ -32,9 +32,10 @@ Languages I work with <3:
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="CSS3" alt="CSS" width="200" height="200"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="JavaScript" alt="JavaScript" width="200" height="200"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="JavaScript" alt="JavaScript" width="200" height="200"/>&nbsp;
+  
 
 <h2>Languages I worked with in the past: </h2>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="JavaScript" alt="JavaScript" width="200" height="200"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="JavaScript" alt="JavaScript" width="200" height="200"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="JavaScript" alt="JavaScript" width="200" height="200"/>&nbsp;
 </div>
