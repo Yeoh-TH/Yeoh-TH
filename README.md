@@ -1,6 +1,6 @@
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="1000"/>
-</div>
+</div> -->
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=avenir&color=%8654FF&size=70&vCenter=true&height=70&lines=Hello%20There!)
 <div id="socialNetworking" align="center">
