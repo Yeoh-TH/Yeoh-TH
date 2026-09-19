@@ -16,7 +16,7 @@
 
 ### About me:
 
-- 👨‍🎓 I am current studying at the School of Science and Technology in Singapore
+- 👨‍🎓 I am currently studying at Ngee Ann Polytechnic
 - 🎸 Proudly in the guitar ensemble!
 - 💻 Currently developing react applications with CSS, HTML and Javascript!
 - 🔌 Worked with the SSTuino, a variant of C++, still using it!
